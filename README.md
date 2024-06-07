@@ -1,6 +1,6 @@
 # mario_game
 
-A new Flutter project.
+A Mario Game project.
 
 ![mario.jpg](lib%2Fimages%2Fmario.jpg)
 ![img.png](lib%2Fimages%2Fimg.png)
